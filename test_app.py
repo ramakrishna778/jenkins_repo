@@ -1,4 +1,1 @@
-def test():
-    assert 1 == 1
-
-test()
+assert 1 == 2
